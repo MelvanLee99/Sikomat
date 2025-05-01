@@ -78,3 +78,10 @@ def initAgentMat(agents, probPrey, probPred, m, n):
 
   return mat
 ```
+
+Creadted by:
+- Adilla Rifqi Muhammad
+- Bryan Guok
+- Nicholas Dustin
+- Melvan Safero Lee
+- Muhammad Ahkam Shafy
